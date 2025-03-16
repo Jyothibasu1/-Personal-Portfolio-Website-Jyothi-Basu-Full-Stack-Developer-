@@ -1,0 +1,2 @@
+# -Personal-Portfolio-Website-Jyothi-Basu-Full-Stack-Developer-
+"A responsive personal portfolio website showcasing my skills, projects, and contact details. Built using HTML, CSS, JavaScript, and React, it highlights my expertise as a full-stack developer. Features include an interactive home section, an about page, a skills section, a portfolio gallery, and a contact form for seamless communication."
